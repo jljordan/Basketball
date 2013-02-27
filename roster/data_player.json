@@ -1,0 +1,141 @@
+[
+    {
+        "pk": 1,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+
+    {
+    "pk": 2,
+    "model": "roster.Player",
+    "fields": {
+        "date": "2013-06-12",
+        "name": "Intermediate Interactive Media",
+        "instructor": "Steven King",
+        "description": "Learn interactive infographic and online designing",
+        "term": "Fall 2012",
+        "callnumber": "J586"
+        }
+
+    },
+    
+    {
+        "pk": 3,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 4,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 5,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 6,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 7,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 8,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 9,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    },
+    
+    {
+        "pk": 10,
+        "model": "roster.Player",
+        "fields": {
+            "date": "2013-01-12",
+            "name": "Advanced Interactive Media",
+            "instructor": "Steven King",
+            "description": "Learn data-driven storytelling and presentation",
+            "term": "Spring 2013",
+            "callnumber": "J583"
+            
+        }
+    }
+]
