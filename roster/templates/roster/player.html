@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load humanize %}
+    <title>Player</title>
+    <link href="/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet">
+
+{% block content %}
+{% for roster.Player in data_player.json %}
+  <h2>'Team'</h2>
+
+    <table class="table">
+    <tr>
+      <td>Player</td>  
+      <td>{{ Player.number }}</td>
+      <td><i>{{ player.name }}</i></td>
+      <td>{{ year }}</td>
+    </tr>
+
+  </table>
+{% endfor %}
+{% endblock %}    
+
+

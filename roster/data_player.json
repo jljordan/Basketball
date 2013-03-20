@@ -3,12 +3,17 @@
         "pk": 1,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "0",
+            "name": "Joel James",
+            "year": "Freshman",
+            "position": "PF",
+            "height": "6-5",
+            "weight": "180",
+            "games played": "260",
+            "points per game": "2.6",
+            "rebounds per game": "2.7",
+            "steals per game": ".3",
+            "free throw percentage": ".563"
             
         }
     },
@@ -17,12 +22,17 @@
     "pk": 2,
     "model": "roster.Player",
     "fields": {
-        "date": "2013-06-12",
-        "name": "Intermediate Interactive Media",
-        "instructor": "Steven King",
-        "description": "Learn interactive infographic and online designing",
-        "term": "Fall 2012",
-        "callnumber": "J586"
+            "number": "1",
+            "name": "Dexter Strickland",
+            "year": "Senior",
+            "position": "PG",
+            "height": "6-3",
+            "weight": "180",
+            "games played": "29",
+            "points per game": "7.9",
+            "rebounds per game": "2.5",
+            "steals per game": "1.3",
+            "free throw percentage": ".643"
         }
 
     },
@@ -31,12 +41,17 @@
         "pk": 3,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "3",
+            "name": "Wade Moody",
+            "year": "Junior",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "175",
+            "games played": "12",
+            "points per game": "0.4",
+            "rebounds per game": "0.1",
+            "steals per game": ".00",
+            "free throw percentage": ".000"
             
         }
     },
@@ -45,12 +60,17 @@
         "pk": 4,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "4",
+            "name": "Luke Davis",
+            "year": "Sophmore",
+            "position": "PG",
+            "height": "6-0",
+            "weight": "172",
+            "games played": "16",
+            "points per game": "0.5",
+            "rebounds per game": "0.2",
+            "steals per game": ".2",
+            "free throw percentage": "1.000"
             
         }
     },
@@ -59,12 +79,17 @@
         "pk": 5,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "5",
+            "name": "Marcus Paige",
+            "year": "Freshmen",
+            "position": "PG",
+            "height": "6-1",
+            "weight": "157",
+            "games played": "28",
+            "points per game": "7.7",
+            "rebounds per game": "2.9",
+            "steals per game": "1.2",
+            "free throw percentage": ".848"
             
         }
     },
@@ -73,12 +98,17 @@
         "pk": 6,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "11",
+            "name": "Brice Johnson",
+            "year": "Freshmen",
+            "position": "PG",
+            "height": "6-9",
+            "weight": "187",
+            "games played": "29",
+            "points per game": "6.4",
+            "rebounds per game": "3.6",
+            "steals per game": "0.4",
+            "free throw percentage": ".591"
             
         }
     },
@@ -87,12 +117,17 @@
         "pk": 7,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "14",
+            "name": "Desmond Hubert",
+            "year": "Sophmore",
+            "position": "PF",
+            "height": "6-10",
+            "weight": "220",
+            "games played": "29",
+            "points per game": "1.2",
+            "rebounds per game": "1.8",
+            "steals per game": "0.3",
+            "free throw percentage": ".214"
             
         }
     },
@@ -101,12 +136,17 @@
         "pk": 8,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "15",
+            "name": "P.J. Hairston",
+            "year": "Sophmore",
+            "position": "SG",
+            "height": "6-6",
+            "weight": "220",
+            "games played": "27",
+            "points per game": "13.3",
+            "rebounds per game": "4.0",
+            "steals per game": "1.0",
+            "free throw percentage": ".785"
             
         }
     },
@@ -115,12 +155,17 @@
         "pk": 9,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "21",
+            "name": "Jackson Simmons",
+            "year": "Sophmore",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "220",
+            "games played": "26",
+            "points per game": "2.1",
+            "rebounds per game": "1.8",
+            "steals per game": "0.1",
+            "free throw percentage": ".800"
             
         }
     },
@@ -129,12 +174,223 @@
         "pk": 10,
         "model": "roster.Player",
         "fields": {
-            "date": "2013-01-12",
-            "name": "Advanced Interactive Media",
-            "instructor": "Steven King",
-            "description": "Learn data-driven storytelling and presentation",
-            "term": "Spring 2013",
-            "callnumber": "J583"
+            "number": "",
+            "name": "",
+            "year": "",
+            "position": "",
+            "height": "",
+            "weight": "",
+            "games played": "",
+            "points per game": "",
+            "rebounds per game": "",
+            "steals per game": "",
+            "free throw percentage": ""
+            
+        }
+    },
+    
+    {
+        "pk": 9,
+        "model": "roster.Player",
+        "fields": {
+            "number": "21",
+            "name": "Jackson Simmons",
+            "year": "Sophmore",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "220",
+            "games played": "26",
+            "points per game": "2.1",
+            "rebounds per game": "1.8",
+            "steals per game": "0.1",
+            "free throw percentage": ".800"
+            
+        }
+    },
+    
+    {
+        "pk": 10,
+        "model": "roster.Player",
+        "fields": {
+            "number": "",
+            "name": "",
+            "year": "",
+            "position": "",
+            "height": "",
+            "weight": "",
+            "games played": "",
+            "points per game": "",
+            "rebounds per game": "",
+            "steals per game": "",
+            "free throw percentage": ""
+            
+        }
+    },
+    
+    {
+        "pk": 9,
+        "model": "roster.Player",
+        "fields": {
+            "number": "21",
+            "name": "Jackson Simmons",
+            "year": "Sophmore",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "220",
+            "games played": "26",
+            "points per game": "2.1",
+            "rebounds per game": "1.8",
+            "steals per game": "0.1",
+            "free throw percentage": ".800"
+            
+        }
+    },
+    
+    {
+        "pk": 10,
+        "model": "roster.Player",
+        "fields": {
+            "number": "",
+            "name": "",
+            "year": "",
+            "position": "",
+            "height": "",
+            "weight": "",
+            "games played": "",
+            "points per game": "",
+            "rebounds per game": "",
+            "steals per game": "",
+            "free throw percentage": ""
+            
+        }
+    },
+    {
+        "pk": 9,
+        "model": "roster.Player",
+        "fields": {
+            "number": "21",
+            "name": "Jackson Simmons",
+            "year": "Sophmore",
+            "position": "PF",
+            "height": "6-7",
+            "weight": "220",
+            "games played": "26",
+            "points per game": "2.1",
+            "rebounds per game": "1.8",
+            "steals per game": "0.1",
+            "free throw percentage": ".800"
+            
+        }
+    },
+    
+    {
+        "pk": 10,
+        "model": "roster.Player",
+        "fields": {
+            "number": "22",
+            "name": "Frank Tanner",
+            "year": "Senior",
+            "position": "SF",
+            "height": "6-4",
+            "weight": "210",
+            "games played": "11",
+            "points per game": "0.2",
+            "rebounds per game": "0.2",
+            "steals per game": "0.0",
+            "free throw percentage": ".000"
+            
+        }
+    },
+    
+    {
+        "pk": 11,
+        "model": "roster.Player",
+        "fields": {
+            "number": "25",
+            "name": "J.P. Tokoto",
+            "year": "Freshmen",
+            "position": "SF",
+            "height": "6-5",
+            "weight": "185",
+            "games played": "28",
+            "points per game": "3.2",
+            "rebounds per game": "2.0",
+            "steals per game": "0.5",
+            "free throw percentage": ".385"
+            
+        }
+    },
+    
+    {
+        "pk": 12,
+        "model": "roster.Player",
+        "fields": {
+            "number": "30",
+            "name": "James Manor",
+            "year": "Junior",
+            "position": "SF",
+            "height": "6-6",
+            "weight": "210",
+            "games played": "11",
+            "points per game": "0.2",
+            "rebounds per game": "0.3",
+            "steals per game": "0.0",
+            "free throw percentage": ".000"
+            
+        }
+    },
+    {
+        "pk": 13,
+        "model": "roster.Player",
+        "fields": {
+            "number": "34",
+            "name": "Denzel Robinson",
+            "year": "Junior",
+            "position": "SF",
+            "height": "6-4",
+            "weight": "215",
+            "games played": "11",
+            "points per game": "0.2",
+            "rebounds per game": "0.4",
+            "steals per game": "0.0",
+            "free throw percentage": ".000"
+            
+        }
+    },
+    {
+        "pk": 14,
+        "model": "roster.Player",
+        "fields": {
+            "number": "35",
+            "name": "Reggie Bullock",
+            "year": "Junior",
+            "position": "SF",
+            "height": "6-7",
+            "weight": "205",
+            "games played": "28",
+            "points per game": "14.2",
+            "rebounds per game": "6.2",
+            "steals per game": "1.3",
+            "free throw percentage": ".746"
+            
+        }
+    },
+    
+    {
+        "pk": 15,
+        "model": "roster.Player",
+        "fields": {
+            "number": "43",
+            "name": "James Michael McAdoo",
+            "year": "Sophmore",
+            "position": "PF",
+            "height": "6-9",
+            "weight": "230",
+            "games played": "29",
+            "points per game": "14.8",
+            "rebounds per game": "8.0",
+            "steals per game": "1.5",
+            "free throw percentage": ".562"
             
         }
     }
