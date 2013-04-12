@@ -1,22 +1,45 @@
 {% extends "base.html" %}
 {% load humanize %}
-    <title>Player</title>
-    <link href="/twitter-bootstrap/twitter-bootstrap-v2/docs/assets/css/bootstrap.css" rel="stylesheet">
-
+   <!-- <title>Player</title> -->
 {% block content %}
-{% for roster.Player in data_player.json %}
-  <h2>'Team'</h2>
+<link href= "{{STATIC_URL}}bootstrap/css/bootstrap.css" rel="stylesheet">
 
-    <table class="table">
+  <h2>{{ player.name }}</h2>
+
+<table class="table table-striped">
     <tr>
-      <td>Player</td>  
-      <td>{{ Player.number }}</td>
-      <td><i>{{ player.name }}</i></td>
-      <td>{{ year }}</td>
+      <th>Number</th>
+      <th>Year</th>
+      <th>Position</th>
+      <th>Height</th>
+      <th>Weight</th>
+    </tr>
+    <tr>
+      <td>{{ player.number }}</td>
+      <td>{{ player.year }}</td>
+      <td>{{ player.position }}</td>
+      <td>{{ player.height }}</td>
+      <td>{{ player.weight }}</td>
+    </tr>
+    
+    <tr>
+      <th>Games Played</th>
+      <th>Points Per Game</th>
+      <th>Steals Per Game</th>
+      <th>Rebounds Per Game</th>
+      <th>Free Throws Per Game</th>
+    </tr>
+    <tr>
+      <td>{{ player.games_played }}</td>
+      <td>{{ player.PPG }}</td>
+      <td>{{ player.SPG }}</td>
+      <td>{{ player.RPG }}</td>
+      <td>{{ player.FTP }}</td>
     </tr>
 
-  </table>
-{% endfor %}
+</table>
+
+
 {% endblock %}    
 
 
